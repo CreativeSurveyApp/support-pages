@@ -1,3 +1,3 @@
 # ヘルプサイト
 
-対応issue: https://github.com/CreativeSurveyApp/ent.creativesurvey.com/issues/13664
+対応issue: https://github.com/ninout-ai/ent/issues/13664
